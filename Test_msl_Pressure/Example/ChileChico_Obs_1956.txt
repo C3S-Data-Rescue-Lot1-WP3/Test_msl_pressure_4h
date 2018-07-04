@@ -1,0 +1,20 @@
+ChileChico	Station
+1956	Year
+162	UID
+-71.68	Longitude
+-46.57	Latitude
+327	Altitude
+	
+Hours: 	
+"12:00, 15:00, 18:00, 23:00"	
+	
+"Maximum, Minimum Temperature and Rainfall Hours: "	
+"12:00, 23:00"	
+	
+Missing records:	
+Dew Point: from 25th April at 15:00 to 30th April; May; June; July.	
+"Pressure: 1st, 29th and 30th June; 2nd to 31st July; August; September; October; November; December."	
+	
+Obs:	
+	Errors introduced deliberately to test function (1-11 Jan; 15 Mar; 1 Apr; 31 May)
+	
